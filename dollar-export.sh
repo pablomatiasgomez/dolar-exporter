@@ -1,2 +1,2 @@
 #!/bin/bash
-./dolar-export.js | pbcopy
+./dollar-export.js | pbcopy
