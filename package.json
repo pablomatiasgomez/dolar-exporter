@@ -1,8 +1,8 @@
 {
-  "name": "dolar-exporter",
+  "name": "dollar-exporter",
   "version": "1.0.0",
-  "description": "TODODESC",
-  "main": "dolar-export.js",
+  "description": "Export BCRA's dollar exchange rate.",
+  "main": "dollar-export.js",
   "dependencies": {
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
@@ -14,15 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pablomatiasgomez/dolar-exporter.git"
+    "url": "git+https://github.com/pablomatiasgomez/dollar-exporter.git"
   },
   "keywords": [
     "dollar"
   ],
   "author": "Pablo Matias Gomez",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pablomatiasgomez/dolar-exporter/issues"
+    "url": "https://github.com/pablomatiasgomez/dollar-exporter/issues"
   },
-  "homepage": "https://github.com/pablomatiasgomez/dolar-exporter#readme"
+  "homepage": "https://github.com/pablomatiasgomez/dollar-exporter#readme"
 }
