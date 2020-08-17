@@ -1,0 +1,28 @@
+{
+  "name": "dolar-exporter",
+  "version": "1.0.0",
+  "description": "TODODESC",
+  "main": "dolar-export.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "xlsx": "^0.16.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablomatiasgomez/dolar-exporter.git"
+  },
+  "keywords": [
+    "dollar"
+  ],
+  "author": "Pablo Matias Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablomatiasgomez/dolar-exporter/issues"
+  },
+  "homepage": "https://github.com/pablomatiasgomez/dolar-exporter#readme"
+}

@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+package-lock.json
+
+logs/
+.DS_Store
+.idea
+.nyc_output/
